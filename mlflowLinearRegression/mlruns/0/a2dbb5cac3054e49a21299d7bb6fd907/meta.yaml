@@ -1,0 +1,15 @@
+artifact_uri: file:///home/caio-mac/Documents/estudos/mlflow/mlflowLinearRegression/mlruns/0/a2dbb5cac3054e49a21299d7bb6fd907/artifacts
+end_time: 1641317357950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a2dbb5cac3054e49a21299d7bb6fd907
+run_uuid: a2dbb5cac3054e49a21299d7bb6fd907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641317355813
+status: 3
+tags: []
+user_id: caio-mac
