@@ -1,0 +1,4 @@
+artifact_location: file:///home/caio-mac/Documents/estudos/mlflow/mlflowScikitLearn/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: sklearn_experiment

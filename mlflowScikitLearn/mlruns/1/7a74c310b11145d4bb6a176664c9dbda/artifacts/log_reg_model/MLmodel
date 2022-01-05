@@ -1,0 +1,13 @@
+artifact_path: log_reg_model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.9.7
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.0.2
+run_id: 7a74c310b11145d4bb6a176664c9dbda
+utc_time_created: '2022-01-05 10:19:15.758616'
