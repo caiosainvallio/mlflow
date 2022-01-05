@@ -1,0 +1,4 @@
+artifact_location: file:///home/caio-mac/Documents/estudos/mlflow/mlflowScikitLearn/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: sklearn_creditcard_guided_search

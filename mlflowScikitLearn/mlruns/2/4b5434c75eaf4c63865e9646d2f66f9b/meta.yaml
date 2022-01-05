@@ -1,0 +1,15 @@
+artifact_uri: file:///home/caio-mac/Documents/estudos/mlflow/mlflowScikitLearn/mlruns/2/4b5434c75eaf4c63865e9646d2f66f9b/artifacts
+end_time: 1641392726565
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 4b5434c75eaf4c63865e9646d2f66f9b
+run_uuid: 4b5434c75eaf4c63865e9646d2f66f9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641392724474
+status: 3
+tags: []
+user_id: caio-mac

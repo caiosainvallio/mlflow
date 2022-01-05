@@ -1,0 +1,4 @@
+artifact_location: file:///home/caio-mac/Documents/estudos/mlflow/mlflowScikitLearn/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: sklearn_creditcard_broad_search
